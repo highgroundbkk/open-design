@@ -1,0 +1,22 @@
+{
+  "$schema": "https://open-design.ai/schemas/plugin.v1.json",
+  "specVersion": "1.0.0",
+  "name": "ppt-style-exploration-image-creative-brief-mtdgh3oe",
+  "title": "PPT Style Exploration Image — Creative Brief",
+  "version": "0.1.0",
+  "description": "Generate **ONE single reference image** that shows **5 distinct visual style directions** for a future Mapii presentation deck. Each direction appears as a mini \"cover slide / key visual\" of the *same* presentation, arra",
+  "od": {
+    "kind": "skill",
+    "taskKind": "new-generation",
+    "context": {
+      "skills": [
+        {
+          "path": "./SKILL.md"
+        }
+      ]
+    },
+    "capabilities": [
+      "prompt:inject"
+    ]
+  }
+}
