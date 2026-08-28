@@ -1,0 +1,19 @@
+{
+  "candidateId": "76f5a13a-5388-4aac-87bf-9a10c02adb92",
+  "projectId": "c869168f-f581-4237-914c-aef9a489878e",
+  "runId": "42c6fb0d-d81e-4234-805b-6062e42fee8f",
+  "conversationId": "dbe180ac-08e0-470b-b6b1-63bc482c78d6",
+  "provenance": {
+    "summary": "Detected from ppt-style-exploration-brief.md after a successful run.",
+    "detectedAt": 1787951758059
+  },
+  "sourceRefs": [
+    {
+      "kind": "file",
+      "value": "ppt-style-exploration-brief.md",
+      "label": "ppt-style-exploration-brief.md",
+      "size": 19920,
+      "copied": true
+    }
+  ]
+}
